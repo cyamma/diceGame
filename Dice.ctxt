@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dice()
+comment0.text=\n\ Default\ constructor\ for\ the\ Dice\ class\n\ sets\ the\ side\ of\ dice\ to\ default\ 6\n\ Assigns\ the\ generated\ random\ number\ as\ random\ roll\n
+comment1.params=
+comment1.target=int\ getRandomRoll()
+comment1.text=\n\ Generate\ random\ number\ between\ 1\ and\ the\ \n\ dice\ side.\ Returns\ the\ generated\ value\n
+comment2.params=sideOfDice
+comment2.target=void\ setDiceSide(int)
+comment2.text=\n\ Set\ method\ to\ set\ the\ side\ of\ dice\ as\ diceSide\n\ \n\ @param\ sideOfDice\ \ \ \ sets\ the\ side\ of\ dice\n
+numComments=3
